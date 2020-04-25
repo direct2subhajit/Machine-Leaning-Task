@@ -1,2 +1,2 @@
-# Machine-Leaning-Task
+# Machine-Learning-Task
 Some works on machine learning
